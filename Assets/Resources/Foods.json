@@ -1,0 +1,14 @@
+ {
+  "Foods": [
+    {
+      "type":1,
+      "points": 10,
+      "color": "#C84042"
+    },
+     {
+        "type" : 2,
+      "points": 20,
+      "color": "#2F53BC"
+    }
+  ]
+ }
