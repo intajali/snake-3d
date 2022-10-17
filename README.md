@@ -4,12 +4,8 @@ The Sanke 3D, is a game developed using Unity. The snake grows by a length of 1 
 Dummy assets are used to create the game.
 
 # Game Control
-Using 4 arrows of the keyboard to control the snake's move. the default movement of the sake is in the Right Direction.
-A/Left-Arrow
-S/Down-Arrow
-D/Right-Arrow
-W/Up-Arrow
-
+The arrows on the keyboard control the snake's movement. the default movement of the sake is in the Right Direction.
+A/Left-Arrow S/Down-Arrow D/Right-Arrow W/Up-Arrow
 # Direction
 
 If the snake hits the wall the snake will die, and a Game Over Popup will display.
